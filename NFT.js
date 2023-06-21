@@ -44,5 +44,9 @@ console.log("\n"+ NFTs.length);
 
 // call your functions below this line
 mintNFT("Bhupati", "Blue", "Hoodie", "Gold Chain");
+mintNFT("JOE", "Blue", "Sweater", "Silver Chain");
+mintNFT("Ayush", "Blue", "T-Shirt", "Ring");
+mintNFT("Rohan", "Blue", "Kurta", "Bracelet");
+mintNFT("Akash", "Blue", "Shirt", "Gold Chain");
 listNFTs();
 getTotalSupply();
